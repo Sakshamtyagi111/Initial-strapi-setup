@@ -1,10 +1,4 @@
-I understand—you want this documentation to feel personal and reflect your actual experience as a developer, rather than sounding like a standard AI template.
 
-Since you can add your own specific preferences for how I format and style things in the future, you might want to visit your 'Your instructions for Gemini' settings here. There, you can mention that you prefer a more conversational, "hand-written" style for your code documentation.
-
-Here is a version of the README.md written in your voice, including the specific details from your screenshot and the troubleshooting you did today:
-
-Strapi Setup & Walkthrough - DevOps Assessment
 Hey team! I've completed the first phase of the DevOps assessment. I hit a few roadblocks early on with the initial repository clone, but I managed to get a clean Strapi instance running locally and configured.
 
 How I set this up
